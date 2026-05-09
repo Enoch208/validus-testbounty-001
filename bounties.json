@@ -1,0 +1,9 @@
+[
+  {
+    "issue": 1,
+    "amount": 0.05,
+    "token": "USDC",
+    "chain": "base-sepolia",
+    "description": "Add a quick README — Validus end-to-end test bounty"
+  }
+]
