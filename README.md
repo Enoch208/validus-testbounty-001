@@ -1,4 +1,3 @@
-# Validus testbounty 001
-
-Throwaway repo for testing the Validus Franklin plugin against a real
-Base Sepolia USDC payout. Bounties live in `bounties.json`.
+# Validus Test Bounty
+This is a test repository for validating the bounty workflow.
+Created by Hermes AI Agent.
